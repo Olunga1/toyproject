@@ -1,0 +1,181 @@
+station_id,station_name,zone,is_west_philly
+3000,Virtual Station,0,False
+3004,Municipal Services Building Plaza,0,False
+3005,"Welcome Park, NPS",0,False
+3006,40th & Spruce,2,True
+3007,"11th & Pine, Kahn Park",0,False
+3008,Temple University Station,0,False
+3009,33rd & Market,2,True
+3010,15th & Spruce,0,False
+3012,21st & Catharine,0,False
+3014,"21st & Winter, Franklin Institute",0,False
+3015,"4th & Walnut, NPS",0,False
+3016,"11th & Poplar, John F. Street Community Center",0,False
+3017,6th & Berks,0,False
+3018,12th & Filbert,0,False
+3019,6th & Race,0,False
+3020,University City Station,2,True
+3021,18th & JFK,0,False
+3022,Amtrak 30th Street Station,2,True
+3024,"43rd & Chester, Clark Park",2,True
+3025,11th & Washington,0,False
+3026,2nd & Lombard,0,False
+3028,4th & Bainbridge,0,False
+3029,36th & Sansom,2,True
+3030,Darien & Catharine,0,False
+3031,13th & Montgomery,0,False
+3032,23rd & South,0,False
+3033,10th & Chestnut,0,False
+3034,11th & Reed,0,False
+3035,Dornsife Center,0,False
+3037,Pennsylvania Convention Center,4,False
+3038,The Children's Hospital of Philadelphia (CHOP),4,False
+3039,Broad & Girard,4,False
+3040,17th & Spring Garden,4,False
+3041,"Girard Station, MFL",4,False
+3043,"18th & Fernon, Aquinas Center",4,False
+3045,13th & Locust,0,False
+3046,2nd & Market,0,False
+3047,"Independence Mall, NPS",0,False
+3049,Foglietta Plaza,0,False
+3050,9th & Arch,0,False
+3051,23rd & Fairmount,0,False
+3052,9th & Locust,0,False
+3053,Point Breeze & Tasker,0,False
+3054,Rodin Museum,0,False
+3055,8th & Market,0,False
+3056,Broad & Oxford,0,False
+3057,Philadelphia Museum of Art,0,False
+3058,20th & Fairmount,0,False
+3059,"Spring Garden Station, BSL",0,False
+3060,Free Library of Philadelphia - Central Library,0,False
+3061,23rd & Market,0,False
+3062,24th & Sansom,0,False
+3063,17th & Pine,0,False
+3064,"18th & Washington, Chew Playground",0,False
+3065,Girard & Hutchinson,0,False
+3066,19th & Lombard,0,False
+3067,"39th & Mt. Vernon, Mantua Haverford Community Center",2,True
+3068,Broad & Federal,0,False
+3069,4th & Christian,0,False
+3070,"Spring Garden Station, MFL",1,False
+3071,"32nd & Baring, Drexel Park",2,True
+3072,Front & Carpenter,1,False
+3073,9th & Spring Garden,1,False
+3074,44th & Walnut,2,True
+3075,Fairmount & Ridge,1,False
+3077,17th & Girard,1,False
+3078,19th & Market,1,False
+3086,Broad & Christian,1,False
+3088,3rd & Girard,1,False
+3093,33rd & Diamond,2,True
+3096,29th & Dauphin,1,False
+3097,"Berks Station, MFL",1,False
+3098,10th & Federal,1,False
+3099,4th & Washington,4,False
+3100,Moyamensing & Tasker,4,False
+3101,11th & South,4,False
+3102,Pennsylvania & Fairmount Perelman Building,4,False
+3104,34th & Mantua,2,True
+3106,33rd & Dauphin,3,True
+3107,33rd & Reservoir,3,True
+3110,Del. River Trail & Penn St.,4,False
+3111,"Parkside & Belmont, Case Building",4,False
+3112,48th & Spruce,3,True
+3113,Philadelphia Zoo,4,False
+3114,22nd & Federal,4,False
+3115,"19th & Girard, PTTI",4,False
+3116,Barnes Foundation,4,False
+3117,ParkWest Town Center,4,False
+3118,"46th Street Station, MFL",3,True
+3119,42nd & Lancaster,3,True
+3120,31st & Girard,4,False
+3123,22nd & Cecil B. Moore,4,False
+3124,Race Street Pier,4,False
+3125,15th & South,1,False
+3150,"15th & Castle, DiSilvestro Playground",1,False
+3152,"40th & Baltimore, Trolley Portal",1,False
+3153,"Thompson & Palmer, Adaire School",1,False
+3154,12th & Callowhill,1,False
+3155,7th & Fitzwater,1,False
+3156,20th & Market,4,False
+3157,"8th & Mifflin, Bok Building",4,False
+3158,Broad & Passyunk,4,False
+3159,38th & Spruce,3,True
+3160,38th & Market,3,True
+3161,30th Street Station East,4,False
+3162,27th & South,4,False
+3163,25th & Locust,4,False
+3164,12th & Passyunk,4,False
+3165,24th & Race SRT,4,False
+3166,Frankford & Belgrade,4,False
+3167,12th & Chestnut,4,False
+3168,20th & Sansom,4,False
+3169,2nd & Race,4,False
+3170,Grays Ferry & Pemberton,4,False
+3181,Crescent Park,4,False
+3182,17th & Sansom,4,False
+3183,15th & Kitty Hawk,4,False
+3184,Health Sciences Drive,4,False
+3185,11th & Market,4,False
+3187,20th & Race,4,False
+3188,"Broad & Pattison, BSL",4,False
+3190,17th & Locust,4,False
+3196,25th & Diamond,4,False
+3197,Broad & Ritner,4,False
+3200,Ridge & Master,4,False
+3201,16th & Arch,4,False
+3203,18th & Christian,4,False
+3204,17th & Green,4,False
+3205,17th & JFK,4,False
+3206,18th & Chestnut,4,False
+3207,34th & Chestnut,4,False
+3208,34th & Spruce,4,False
+3209,45th & Baltimore,3,True
+3210,Broad & Diamond,4,False
+3211,Corinthian & Poplar,4,False
+3212,Schuylkill Banks Pergola,4,False
+3226,2nd & Norris,4,False
+3233,Race & Franklin,4,False
+3234,20th & Cuthbert,4,False
+3235,16th & Callowhill,4,False
+3236,24th & Pennsylvania,4,False
+3237,Broad & Oregon,4,False
+3238,6th & S Washington Square,4,False
+3240,44th & Haverford,4,False
+3241,52nd & Larchwood - Malcolm X Park,3,True
+3243,8th & Diamond,4,False
+3244,Broad & Carpenter,4,False
+3245,Broad & Cecil B Moore,4,False
+3246,50th & Baltimore,3,True
+3247,47th & Aspen - Lucien Blackwell,3,True
+3248,24th & Christian,4,False
+3249,34th & Arch,4,False
+3250,4th & Wood,4,False
+3251,29th & Tasker,4,False
+3252,30th & Oakford,4,False
+3253,27th & Morris - Vare Recreation Center,4,False
+3254,16th & Montgomery,4,False
+3255,Broad & Chestnut,4,False
+3256,23rd & Chestnut,4,False
+3257,2nd & Snyder,5,False
+3258,52nd & Chestnut,3,True
+3259,Saunders & Pearl,5,False
+3261,2nd & Brown,5,False
+3263,43rd & Powelton,5,False
+3264,8th & Spruce,5,False
+3265,Powelton & Lancaster,5,False
+3266,Water & Mifflin,5,False
+3267,19th & Oregon,5,False
+3271,53rd & Baltimore,3,True
+3272,50th & Haverford,3,True
+3273,Ridge & Ferry,5,False
+3275,York & Aramingo,5,False
+3276,12th & Fairmount,5,False
+3277,20th & Berks,5,False
+3278,22nd & Sedgley,5,False
+3279,13th & Mifflin,5,False
+3280,50th & Woodland,3,True
+3281,Lindbergh & Wheeler,5,False
+3282,10th & Nevada,5,False
+3287,49th & Chester,3,True
